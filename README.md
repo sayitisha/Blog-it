@@ -1,7 +1,7 @@
 # Blog Wall
 <div align="center">
   
-![](https://user-images.githubusercontent.com/57036954/134820057-910e4329-3c1c-4f43-ac1e-1b17c5324fd6.png)
+![](https://github.com/sayitisha/Blog-it/blob/andriod/screenshots/6c905057-1456-49a9-9ffb-418119de2d7a.png?raw=true)
 </div>
 Blog it is a blogging app where readers can find lots of insightful and informational articles related to a wide variety of topics that include technology, science, health, etc. Anyone can share their ideas through publishing their useful blogs and engage in conversation with a network of readers and writers by interacting with the content.
 
